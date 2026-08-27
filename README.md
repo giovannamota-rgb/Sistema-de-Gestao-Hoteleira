@@ -40,14 +40,14 @@ Modelagem de software completa para a modernização do **Hotel Planalto Suítes
 
 ## 👥 Integrantes da Equipe
 
-<table align="center">
+<table align="left">
   <tr>
-    <td align="center" width="160px">
+    <td align="left">
       <a href="https://github.com/SEU_USERgiovannamota">
         <sub><b>Giovanna da Mota Feitosa</b></sub>
       </a>
     </td>
-    <td align="center" width="160px">
+    <td align="left">
       <a href="https://github.com/raysousa-dev">
         <sub><b>Rayane Sousa Ferreira</b></sub>
       </a>
