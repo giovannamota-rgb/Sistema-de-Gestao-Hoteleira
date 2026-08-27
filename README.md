@@ -41,9 +41,9 @@ Modelagem de software completa para a modernização do **Hotel Planalto Suítes
 ## 👥 Integrantes da Equipe
 
 - **Enzo Vieira Neves da Silva** 
-- **Giovanna da Mota Feitosa** — [@usuario-giovanna](https://github.com/giovannamota-rgb)
+- **Giovanna da Mota Feitosa** — [@giovannamota-rgb](https://github.com/giovannamota-rgb)
 - **Marcela Lourenço de Oliveira** 
-- **Rayane Sousa Ferreira** — [@usuario-rayane](https://github.com/raysousa-dev)
+- **Rayane Sousa Ferreira** — [@raysousa-dev](https://github.com/raysousa-dev)
 - **Tailine do Nascimento Sirqueira**
 
 ---
